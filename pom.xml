@@ -11,6 +11,7 @@
     <modules>
         <module>WordCount</module>
         <module>InvertedIndex</module>
+        <module>MyJoin</module>
     </modules>
 
     <repositories>
