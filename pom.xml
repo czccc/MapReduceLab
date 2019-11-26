@@ -12,6 +12,7 @@
         <module>WordCount</module>
         <module>InvertedIndex</module>
         <module>MyJoin</module>
+        <module>SecondSort</module>
     </modules>
 
     <repositories>
